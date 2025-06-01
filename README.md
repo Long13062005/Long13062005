@@ -1,5 +1,52 @@
-# 💫 About Me:
-# ⚡ About Me — Long Hung (Levi Hung) 👨‍💻<br><br>Hey, I’m **Long** — a Gen Z Software Engineer from 🇻🇳 Vietnam, building things that talk to machines, scale to the cloud, and wow real humans.<br><br>---<br><br>## 🧠 What I Do<br><br>- 🔧 Full Stack Dev (Java + Spring Boot • React.js • PostgreSQL)<br>- 📊 System Monitoring & IT Automation for the real world<br>- 🌐 Fluent in Tech, English, and working on my Japanese (JLPT N3+ soon)<br>- 🧪 AI-curious | Linux enthusiast | DevOps learner<br><br>---<br><br>## 💡 Philosophy<br><br>> "If it scales, alerts, or automates — I’m in."<br><br>I don’t just write code. I **design systems** that survive stress, **solve real problems**, and **make life easier for ops/dev teams**.<br><br>---<br><br>## 🛠️ Recent Projects<br><br>| Project | What it does | Tech |<br>|--------|---------------|------|<br>| 🖥️ Server Resource Monitor | Centralized dashboard + alerts for CPU, RAM, Disk, Network | Spring Boot, PostgreSQL, Swagger |<br>| 💸 Expense Tracker App | Android app to manage budgets, expenses & insights | Kotlin, Room DB, Material Design |<br><br>---<br><br>## 🎯 Mission<br><br>I’m here to **build**, **learn**, and **ship things** that actually matter — for users, for teams, and for the future of tech.<br><br>---<br><br>## 🚀 Let’s Connect<br><br>- GitHub: [@Long13062005](https://github.com/Long13062005)<br>- Linkedln: [@HungLevi](https://www.linkedin.com/in/hunglevi/)<br>- Email: `vulonghungvn@gmail.com`<br>- Languages: 🇻🇳 Vietnamese (native), 🇬🇧 English (B1), 🇯🇵 Japanese (N4)<br><br>---<br><br>_✨ Built with curiosity, caffeine, and terminal vibes._<br>
+### ⚡ About Me — Long Hung (Levi Hung) 👨‍💻
+
+Hey, I’m **Long** — a Gen Z Software Engineer from 🇻🇳 Vietnam, building things that talk to machines, scale to the cloud, and wow real humans.
+
+---
+
+## 🧠 What I Do
+
+- 🔧 Full Stack Dev (Java + Spring Boot • React.js • PostgreSQL)
+- 📊 System Monitoring & IT Automation for the real world
+- 🌐 Fluent in Tech, English, and working on my Japanese (JLPT N3+ soon)
+- 🧪 AI-curious | Linux enthusiast | DevOps learner
+
+---
+
+## 💡 Philosophy
+
+> "If it scales, alerts, or automates — I’m in."
+
+I don’t just write code. I **design systems** that survive stress, **solve real problems**, and **make life easier for ops/dev teams**.
+
+---
+
+## 🛠️ Recent Projects
+
+| Project                | What it does                                             | Tech                             |
+|------------------------|----------------------------------------------------------|----------------------------------|
+| 🖥️ Server Resource Monitor | Centralized dashboard + alerts for CPU, RAM, Disk, Network | Spring Boot, PostgreSQL, Swagger |
+| 💸 Expense Tracker App     | Android app to manage budgets, expenses & insights       | Kotlin, Room DB, Material Design |
+
+---
+
+## 🎯 Mission
+
+I’m here to **build**, **learn**, and **ship things** that actually matter — for users, for teams, and for the future of tech.
+
+---
+
+## 🚀 Let’s Connect
+
+- GitHub: [@Long13062005](https://github.com/Long13062005)
+- LinkedIn: [@HungLevi](https://www.linkedin.com/in/hunglevi/)
+- Email: `vulonghungvn@gmail.com`
+- Languages: 🇻🇳 Vietnamese (native), 🇬🇧 English (B1), 🇯🇵 Japanese (N4)
+
+---
+
+_✨ Built with curiosity, caffeine, and terminal vibes._
+
 
 
 ## 🌐 Socials:
